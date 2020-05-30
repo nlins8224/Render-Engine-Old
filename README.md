@@ -1,3 +1,3 @@
 # Render-Engine-Old
 
-LWJGL OpenGL Engine, needs refactor, work in progress 
+LWJGL OpenGL Render Engine, needs refactor, work in progress 
